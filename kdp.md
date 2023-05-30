@@ -8,7 +8,7 @@ This book, "How to Improve Workplace Efficiency for Greater Success and Business
 
 Whether you are a business owner, team leader, or HR professional, this book will provide valuable insights and actionable tools for creating a more efficient and productive work environment. By promoting effective communication and productivity-enhancing strategies, organizations can achieve greater success and growth.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
