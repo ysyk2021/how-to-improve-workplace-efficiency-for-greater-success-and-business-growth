@@ -1,5 +1,3 @@
-Identifying Tasks that Can be Automated
-==========================================================================================================
 
 Identifying tasks that can be automated is a critical component of achieving workplace efficiency. In this chapter, we will discuss techniques for identifying tasks that can be automated.
 

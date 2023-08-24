@@ -1,5 +1,3 @@
-Chapter 4: Automating Repetitive Tasks for Increased Productivity
-=================================================================
 
 Automating repetitive tasks is a crucial component of achieving workplace efficiency. In this chapter, we will discuss the benefits of automation, how to identify tasks that can be automated, and implementing automation software and tools.
 

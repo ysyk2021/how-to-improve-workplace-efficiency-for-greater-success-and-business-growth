@@ -1,5 +1,3 @@
-Selecting and Implementing Appropriate Technologies
-=============================================================================================================
 
 In the previous chapter, we discussed an overview of technology solutions for improved efficiency. In this chapter, we will focus on selecting and implementing appropriate technologies.
 

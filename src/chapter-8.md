@@ -1,5 +1,3 @@
-Chapter 8: Leveraging Technology for Improved Efficiency
-========================================================
 
 Leveraging technology is a critical component of achieving workplace efficiency. In this chapter, we will provide an overview of technology solutions for improved efficiency and discuss selecting and implementing appropriate technologies.
 

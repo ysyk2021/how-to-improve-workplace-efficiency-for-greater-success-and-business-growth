@@ -1,5 +1,3 @@
-Importance of Effective Communication
-=============================================================================================
 
 Effective communication is a critical component of achieving workplace efficiency. In this chapter, we will discuss the importance of effective communication.
 

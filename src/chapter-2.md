@@ -1,5 +1,3 @@
-Chapter 2: Identifying Inefficiencies in the Workplace
-======================================================
 
 Identifying inefficiencies in the workplace is an essential step towards achieving workplace efficiency. In this chapter, we will discuss common causes of inefficiencies and techniques for identifying inefficiencies in the workplace.
 

@@ -1,5 +1,3 @@
-Techniques for Streamlining Workflows
-====================================================================================================
 
 Streamlining workflows is a crucial component of achieving workplace efficiency. In this chapter, we will focus on techniques for streamlining workflows through process improvement.
 

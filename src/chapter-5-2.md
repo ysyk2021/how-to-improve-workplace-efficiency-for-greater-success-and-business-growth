@@ -1,5 +1,3 @@
-Techniques for Optimizing Resource Allocation
-========================================================================================
 
 Optimizing resource allocation is a critical component of achieving workplace efficiency. In this chapter, we will discuss techniques for optimizing resource allocation.
 

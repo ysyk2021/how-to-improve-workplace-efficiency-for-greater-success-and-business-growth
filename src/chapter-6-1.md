@@ -1,5 +1,3 @@
-Benefits of Accountability and Responsibility in the Workplace
-========================================================================================================================
 
 Encouraging accountability and responsibility is a crucial component of achieving workplace efficiency. In this chapter, we will discuss the benefits of accountability and responsibility in the workplace.
 

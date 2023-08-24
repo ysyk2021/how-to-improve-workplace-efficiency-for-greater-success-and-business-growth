@@ -1,5 +1,3 @@
-Chapter 6: Encouraging Accountability and Responsibility
-========================================================
 
 Encouraging accountability and responsibility among employees is a key strategy for improving workplace efficiency and promoting business growth. In this chapter, we will explore the benefits of accountability and responsibility in the workplace and techniques for encouraging them among employees.
 

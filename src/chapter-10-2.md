@@ -1,5 +1,3 @@
-Tracking Progress and Celebrating Successes
-====================================================================================
 
 Implementing change in the workplace can be a long and daunting task. However, it is important to track progress and celebrate successes to ensure that changes are lasting and effective. In this chapter, we will discuss the importance of tracking progress and celebrating successes as well as some tips on how to do so effectively.
 

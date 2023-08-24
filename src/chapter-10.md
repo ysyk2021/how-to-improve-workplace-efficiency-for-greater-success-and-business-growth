@@ -1,5 +1,3 @@
-Chapter 10: Implementing Lasting Change
-=======================================
 
 Implementing lasting change is crucial for achieving long-term workplace efficiency and success. In this chapter, we will focus on creating a culture of efficiency and tracking progress to celebrate successes.
 

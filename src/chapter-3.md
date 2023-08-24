@@ -1,5 +1,3 @@
-Chapter 3: Streamlining Workflows through Process Improvement
-=============================================================
 
 Streamlining workflows through process improvement is a key component of achieving workplace efficiency. In this chapter, we will provide an overview of process improvement and techniques for streamlining workflows.
 

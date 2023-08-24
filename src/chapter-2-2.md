@@ -1,5 +1,3 @@
-Techniques for Identifying Inefficiencies in the Workplace
-==================================================================================================================
 
 Identifying inefficiencies in the workplace is an essential step in streamlining workflows and improving workplace efficiency. In this chapter, we will explore techniques for identifying inefficiencies in the workplace.
 

@@ -1,5 +1,3 @@
-Techniques for Developing Effective Communication Channels
-==================================================================================================================
 
 Developing effective communication channels is a critical component of achieving workplace efficiency. In this chapter, we will discuss techniques for developing effective communication channels.
 

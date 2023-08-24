@@ -1,5 +1,3 @@
-Overview of Process Improvement
-==============================================================================================
 
 Process improvement is a key strategy for streamlining workflows and improving workplace efficiency. In this chapter, we will explore an overview of process improvement and its benefits for businesses.
 

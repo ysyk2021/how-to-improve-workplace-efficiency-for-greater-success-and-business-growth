@@ -1,5 +1,3 @@
-Common Causes of Inefficiencies
-=======================================================================================
 
 Identifying inefficiencies in the workplace is a crucial step in achieving workplace efficiency. In this chapter, we will focus on common causes of inefficiencies.
 

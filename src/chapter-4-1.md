@@ -1,5 +1,3 @@
-Understanding the Benefits of Automation
-===========================================================================================================
 
 Automating repetitive tasks is a key component of achieving workplace efficiency. In this chapter, we will focus on understanding the benefits of automation.
 
