@@ -1,5 +1,4 @@
-Chapter 10: Tracking Progress and Celebrating Successes
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest for workplace efficiency and the pursuit of greater success and business growth, it's essential to not only implement strategies and improvements but also to measure progress and acknowledge achievements along the way. In this chapter, we'll explore the significance of tracking progress and celebrating successes within your organization.
 

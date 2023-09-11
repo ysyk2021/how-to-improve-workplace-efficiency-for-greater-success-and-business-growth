@@ -1,5 +1,4 @@
-Chapter 3: The Importance of Resource Allocation
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Resource allocation plays a pivotal role in the pursuit of workplace efficiency and serves as a cornerstone for achieving greater success and business growth. In this chapter, we will delve into the significance of resource allocation within organizations and how it impacts every facet of their operations.
 

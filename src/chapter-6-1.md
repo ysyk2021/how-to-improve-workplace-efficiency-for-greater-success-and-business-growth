@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Accountability and Responsibility in the Workplace
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's competitive business landscape, organizations are constantly striving to enhance their workplace efficiency. One key factor that can significantly contribute to achieving this goal is fostering a culture of accountability and responsibility among employees. In this chapter, we will explore the numerous benefits of promoting accountability and responsibility within your organization and how they can lead to greater success and business growth.
 

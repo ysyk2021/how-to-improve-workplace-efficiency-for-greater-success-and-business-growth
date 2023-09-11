@@ -1,5 +1,4 @@
-Chapter 5: Techniques for Encouraging Accountability and Responsibility Among Employees
-=======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of techniques and strategies aimed at fostering a culture of accountability and responsibility among employees in the workplace. Encouraging employees to take ownership of their tasks and outcomes is fundamental for improving workplace efficiency and driving business growth.
 

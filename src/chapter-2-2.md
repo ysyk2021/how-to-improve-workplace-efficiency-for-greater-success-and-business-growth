@@ -1,5 +1,4 @@
-Chapter 5: Techniques for Identifying Inefficiencies in the Workplace
-=====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore a range of effective techniques and methods for identifying inefficiencies within your organization's processes and workflows. Recognizing these inefficiencies is the first step towards improvement, leading to greater workplace efficiency, productivity, and business growth.
 

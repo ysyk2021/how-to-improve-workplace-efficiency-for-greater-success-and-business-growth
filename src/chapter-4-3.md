@@ -1,5 +1,4 @@
-Chapter 6: Implementing Automation Software and Tools
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the practical aspects of implementing automation software and tools to improve workplace efficiency, streamline processes, and drive business growth. Understanding how to select, deploy, and maximize the benefits of automation solutions is essential for organizations seeking to optimize their operations.
 

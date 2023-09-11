@@ -1,5 +1,4 @@
-Chapter 4: Understanding the Benefits of Automation
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the various advantages and transformative potential of automation in the workplace. Understanding how automation can enhance efficiency, streamline processes, and drive business growth is essential for modern organizations striving to stay competitive in an ever-evolving landscape.
 

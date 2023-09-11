@@ -1,5 +1,4 @@
-Chapter 5: Common Obstacles to Workplace Efficiency
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficiency is a key driver of success and business growth, but numerous obstacles can impede an organization's ability to achieve optimal workplace efficiency. In this chapter, we will explore some of the common obstacles that hinder efficiency and provide insights on how to overcome them.
 

@@ -1,5 +1,4 @@
-Chapter 3: Identifying Tasks That Can Be Automated
-==================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of identifying tasks within your organization that are ripe for automation. Recognizing which activities can be automated is a fundamental step in improving workplace efficiency, driving productivity, and achieving business growth.
 

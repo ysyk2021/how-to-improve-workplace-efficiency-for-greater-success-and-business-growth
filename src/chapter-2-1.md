@@ -1,5 +1,4 @@
-Chapter 2: Common Causes of Inefficiencies
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the typical culprits behind workplace inefficiencies. Identifying and addressing these common causes is essential for organizations striving to improve workplace efficiency, boost productivity, and achieve sustainable business growth.
 

@@ -1,5 +1,4 @@
-Chapter 6: Techniques for Streamlining Workflows
-================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Efficient workflows are the lifeblood of any organization seeking greater success and business growth. In this chapter, we will explore a range of techniques and strategies to streamline workflows, enhance productivity, and achieve optimal workplace efficiency.
 
